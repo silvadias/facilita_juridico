@@ -6,4 +6,6 @@ Services:
   volumes:
     - ./:/app
   working_dir: /app
+  ports:
+    - 3000:3000
 
