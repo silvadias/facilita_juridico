@@ -1,2 +1,4 @@
 version '3.8'
 
+Services:
+  image: node:20-alpine
