@@ -11,7 +11,7 @@
  
 ### 1. Identificação do Projeto: 
  
-- *Título do Projeto:* Sistema de Gerenciamento de Clientes 
-- *Código do Projeto:* SGCL-2024 
-- *Data de Emissão:* 16/03/2024 
+- **Título do Projeto:** Sistema de Gerenciamento de Clientes 
+- **Código do Projeto:** SGCL-2024 
+- **Data de Emissão:** 16/03/2024 
 - Versão: 1.0
